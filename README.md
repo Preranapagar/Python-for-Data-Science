@@ -3,5 +3,6 @@ I will be updating the basic python terms, tools and as well as some practice qu
 
 Flow
 1. Introduction
-2. Data Types
-3. variables
+2. Variables
+3. Data Types
+4. String
