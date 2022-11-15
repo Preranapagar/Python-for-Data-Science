@@ -3,3 +3,4 @@ I will be updating the basic python terms, tools and as well as some practice qu
 
 Flow
 1. Introduction
+2. Data Types
