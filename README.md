@@ -7,3 +7,4 @@ Flow
 3. Data Types
 4. String
 5. If else statements and Operators
+6. List
